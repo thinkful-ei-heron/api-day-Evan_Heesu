@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu#readme"
+  "homepage": "https://github.com/thinkful-ei-heron/api-day-Evan_Heesu#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
